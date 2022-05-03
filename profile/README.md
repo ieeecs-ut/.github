@@ -6,14 +6,20 @@ The IEEE Computer Society at UT Austin works to connect students who are highly 
 Visit Our Website: [ieeecs.ece.utexas.edu](http://ieeecs.ece.utexas.edu/)  
 
 ## Projects
-*bold projects are currently in progress* (all others are complete)
+*bold projects are currently in progress* (all others are complete)  
+
+
 Fall 2020  
 - UT Ticket Exchange (Software Engineering Project)
-Fall 2021. 
+
+
+Fall 2021  
 - Deep Learning with Spotify (Data Science Sprint)
 - Embedded Computer Vision (Embedded Systems Sprint)
 - Philips Hue IoT Challenge (Software Engineering Sprint)
-Spring 2022
+
+
+Spring 2022  
 - Small Business Culture (Business Challenge #1)
 - Study Room Availability (UT Austin Challenge #5)
 - Campus Guidance Tool (UT Austin Challenge #8)
